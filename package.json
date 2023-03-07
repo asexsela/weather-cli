@@ -1,0 +1,30 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "man": ["./MANUAL.md"],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Alexander Seliukov",
+  "license": "ISC",
+  "homepage": "https://wdevelopers.tech",
+  "repository": {
+    "type": "git",
+    "url": "https://wdevelopers.tech"
+  },
+  "bugs": {
+    "url": "https://wdevelopers.tech",
+    "email": "asexsela@gmail.com"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
