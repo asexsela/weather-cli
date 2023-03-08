@@ -8,7 +8,7 @@
   },
   "type": "module",
   "man": [
-    "./MANUAL.md"
+    "./README.md"
   ],
   "scripts": {
     "start": "node index.js",
