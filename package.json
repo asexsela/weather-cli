@@ -1,6 +1,6 @@
 {
-  "name": "asexsela-weather-cli",
-  "version": "1.0.0",
+  "name": "as-weather-cli",
+  "version": "1.0.2",
   "description": "CLI for getting weather",
   "main": "weather.js",
   "bin": {

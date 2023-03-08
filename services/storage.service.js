@@ -45,7 +45,6 @@ export const getKeyValue = async (key) => {
 
 const createHomeDir = async (path, recursive = true) => {
     try {
-        console.log(path)
         await promises.mkdir(path, {recursive});
     } catch (e) {
         throw new Error(e);
